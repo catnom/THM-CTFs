@@ -64,7 +64,7 @@ response: voided!
 cat flag.txt
 ```
 And voila! There's your flag.
-\
+
 
 
 \
