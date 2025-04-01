@@ -30,7 +30,7 @@ The `exploit.py` script uses pwntools to:
 1. **Clone the Repository**:
    use the following command to download all the challenge files:
    ```bash
-   git clone <https://github.com/catnom/THM-CTFs.git>
+   git clone <i will edit it when it's public>
    ```
 
 
