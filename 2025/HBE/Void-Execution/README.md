@@ -27,20 +27,25 @@ The `exploit.py` script uses pwntools to:
 
 ## Usage
 
-1. **Clone the Repository**:
+1. Clone the Repository:
    use the following command to download all the challenge files:
    ```bash
-   git clone <i will edit it when it's public>
+   git clone <https://github.com/catnom/THM-CTFs.git>
+   ```
+
+2. Make the binary executable
+  run the following command to give execution permission to the binary:
+   ```bash
+   chmod +x voidexec
    ```
 
 
-
-2. modify the exploit.py script to your own ip:
+3. modify the exploit.py script to your own ip:
    ```py
    r = remote('your ip', 9008)
    ```
 
-3. Run the exploit:
+4. run the exploit:
    ```bash
    python3 exploit.py
    ```
