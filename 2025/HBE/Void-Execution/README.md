@@ -1,4 +1,4 @@
-# void execution challenge (Task 36)
+# void execution write-up (Task 36)
 
 This repository contains files for a binary exploitation challenge called "void execution". the challenge involves exploiting a binary to gain remote code execution.
 
